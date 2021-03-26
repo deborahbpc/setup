@@ -25,5 +25,10 @@ Setup guides made for [Le Wagon](https://www.lewagon.com). Please choose your op
         <img src="images/windows.png" alt="Windows">
       </a>
     </td>
+    <td>
+      <a href="WINDOWS_UPDATED.md">
+        <img src="images/windows.png" alt="Windows">
+      </a>
+    </td>
   </tr>
 </table>
